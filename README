@@ -1,0 +1,6 @@
+This is an attempt to rewrite my `log' program in C.
+
+Structure
+	main.c
+	log.h/log.c	functions common to all log programs (log, clog, elog)
+	
